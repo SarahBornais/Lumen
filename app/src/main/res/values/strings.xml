@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">LumenApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Learn</string>
+    <string name="title_notifications">Teach</string>
+    <string name="title_settings">Settings</string>
+    <string name="private_tutoring">Private Tutoring</string>
+    <string name="round_table">Round Table</string>
+    <string name="ask_question">Ask a question</string>
+    <string-array name="courses_array">
+        <item>English</item>
+        <item>French</item>
+        <item>Mathematics</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+    </string-array>
+    <string-array name="type_array">
+        <item>Individual tutoring</item>
+        <item>Round table</item>
+    </string-array>
+    <string name="choose_course">Choose a course</string>
+    <string name="ask">Ask</string>
+    <string name="ind_or_room">Pick a session type</string>
+    <string name="welcome">Welcome back </string>
+    <string name="favourite_tutors">FAVOURITE TUTORS</string>
+    <string name="courses">COURSES</string>
+    <string name="teach">Teach</string>
+    <string-array name="grade_array">
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+        <item>Eleven</item>
+        <item>Twelve</item>
+        <item>Post Secondary</item>
+    </string-array>
+</resources>
