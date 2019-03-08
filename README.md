@@ -1,6 +1,6 @@
 # Lumen
 
-42%. As a student, that number terrifies me. That number represents failure. That number tells me that, if I want to succeed, something needs to change, and it needs to change now. 
+42%. For students, that number is terrifying. That number represents failure. That number tells us that, if we want to succeed, something needs to change, and it needs to change now. 
 
 That number also happens to represent the number of applied math students that met the Ontario provincial standard for mathematics in grade nine in the past three years. This is completely unacceptable. Students in applied classes may learn at a slower pace, but there is no way that they are incapable of ever being able to find the slope of a line or solve for x. In fact, I’m willing to bet that every single one of the students in grade nine in our school board could pass that test with flying colours, if given the right resources. And that’s what we’re here for. We’re absolute power, and we’re about to revolutionize education. 
 
